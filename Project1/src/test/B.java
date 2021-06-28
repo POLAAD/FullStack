@@ -5,11 +5,11 @@ public class B {
 	{
 		return x-y;
 	}
-<<<<<<< HEAD
+
 	
 //sub1
-=======
+
 	//sub
 
->>>>>>> branch 'master' of https://github.com/POLAAD/FullStack.git
+
 }
